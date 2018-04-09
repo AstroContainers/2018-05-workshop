@@ -40,4 +40,30 @@ The workshop is designed for, but not limited to, astronomers and astrophysicist
 - Familiarity of logging into and using remote systems
 - Basic programming experience (language of your choice)
 
+## Tentative Schedule:
+
+Day 1: Introductory Docker
+
+- [ ] 09:00am–09:30am	Welcome, introduction to CyVerse, UA HPC, and container technology
+- [ ] 09:30am–10:00am	Introductory Docker I
+- [ ] 10:00am–10:30am	Coffee break
+- [ ] 10:30am–11:15am	How to use Docker on CyVerse
+- [ ] 11:15am–12:00pm	Introductory Docker II
+- [ ] 12:00pm–01:00pm	Lunch break on your own
+- [ ] 01:00pm–02:30pm	BYOD/BYOA session
+- [ ] 02:30pm–03:00pm	Coffee break
+- [ ] 03:00pm–04:30pm	BYOD/BYOA session
+
+Day 2: Introductory Singularity
+
+- [ ] 09:00am–09:30am	CyVerse, UA HPC, and container showcase
+- [ ] 09:30am–10:00am	Introductory Singularity I
+- [ ] 10:00am–10:30am	Coffee break
+- [ ] 10:30am–11:15am	How to use Singularity on UA HPC
+- [ ] 11:15am–12:00pm	Introductory Singularity II
+- [ ] 12:00pm–01:00pm	Lunch break on your own
+- [ ] 01:00pm–02:30pm	BYOD/BYOA session
+- [ ] 02:30pm–03:00pm	Coffee break
+- [ ] 03:00pm–04:30pm	BYOD/BYOA session
+
 For more information, please visit [this webpage](https://astrocontainers.github.io/2018-05-workshop) or contact [CK Chan](mailto:chanc@email.arizona.edu).
