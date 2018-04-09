@@ -17,15 +17,15 @@ Location: University of Arizona Main Campus (room number TBD)
 
 Please [register and tell us what analysis/data you will bring](https://goo.gl/forms/UaAM4qjJC8fBuUqI3).
 
-### Scope
+### Scope:
 
 Container technologies such as Docker and Singularity let scientists easily share, reuse, and scale all types of computational analyses.  The *CyVerse AstroContainers Workshop* series are two-day hands-on workshops designed for astronomers to learn how to create, use, and deploy containers across a variety of compute systems (your computer, CyVerse, local HPC, etc).  Our inaugural workshop will focus on Docker and Singularity.  We will use a blend of practical theories and hands-on exercises for small groups to deploy tools and workflows they bring to the workshop.
 
-### Target Audience/Participants
+### Target Audience/Participants:
 
 The series is designed for astronomers and astrophysicists at Steward, LSST, NOAO, and LPL; but scientist of other disciplines are invited to attend.  Examples used in the workshops are astro-focused but the skill sets are generic and applicable to many scientific analysis.
 
-### BYOD/BYOA
+### BYOD/BYOA:
 
 **B**ring **Y**our **O**wn **D**ata and **A**nalyses.  Workshop participants are encouraged to bring their own data and analytical workflows for containerization.
 
@@ -37,7 +37,7 @@ The series is designed for astronomers and astrophysicists at Steward, LSST, NOA
 - Familiar with logging into and using remote systems
 - Basic programming experience (language of your choice)
 
-### Outcomes
+### Outcomes:
 
 - Theory and application of container technology
 - How to use containerized software developed by other people
@@ -47,7 +47,7 @@ The series is designed for astronomers and astrophysicists at Steward, LSST, NOA
 
 ### Tentative Schedule:
 
-Time            | Day 1: Introductory Docker                       | Day 2: Introductory Singularity
+Time            | May 7th: Docker                                  | May 8th: Singularity
 --------------- | ------------------------------------------------ | ---------------------------------------------
 09:00am–09:30am | Welcome, introduction to CyVerse, and containers | Introduction to UA HPC and container showcase
 09:30am–10:00am | Introductory Docker I				   | Introductory Singularity I
@@ -59,4 +59,4 @@ Time            | Day 1: Introductory Docker                       | Day 2: Intr
 02:30pm–03:00pm | Coffee break					   | Coffee break
 03:00pm–04:30pm | BYOD/BYOA session				   | BYOD/BYOA session
 
-For more information, please visit [this webpage](https://astrocontainers.github.io/2018-05-workshop) or contact [CK Chan](mailto:chanc@email.arizona.edu).
+For more information, please contact [CK Chan](mailto:chanc@email.arizona.edu).  There is also a related [virtual hackathon](https://astrocontainers.github.io/2018-04-hackathon).
