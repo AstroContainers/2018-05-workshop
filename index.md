@@ -3,7 +3,7 @@ layout: splash
 classes:
   - landing
 header:
-  image: /astrocontainer.jpg
+  image: /banner.jpg
 ---
 
 Dates and Time: Monday and Tuesday, May 7th and 8th, 2018, 9:00am–4:30pm MST
@@ -11,6 +11,8 @@ Dates and Time: Monday and Tuesday, May 7th and 8th, 2018, 9:00am–4:30pm MST
 Location: University of Arizona Main Campus (room number TBD)
 
 Please [register and tell us what analysis/data you will bring](https://goo.gl/forms/UaAM4qjJC8fBuUqI3).
+
+Flyer ([jpg](flyer.jpg), [pdf](flyer.pdf))
 
 ### Scope
 
@@ -24,14 +26,6 @@ The series is designed for astronomers and astrophysicists at Steward, LSST, NOA
 
 **B**ring **Y**our **O**wn **D**ata and **A**nalyses.  Workshop participants are encouraged to bring their own data and analytical workflows for containerization.
 
-### Outcomes
-
-- Theory and application of container technology
-- How to use containerized software developed by other people
-- How to containerize software
-- How to build/deploy containerized workflows
-- How to run your computation on local resources such as CyVerse and UA HPC
-
 ### Required Experience:
 
 - Linux command line, directory structures, shell commands
@@ -39,6 +33,14 @@ The series is designed for astronomers and astrophysicists at Steward, LSST, NOA
 - Experience using HPC, distributed computing, cloud computing systems
 - Familiar with logging into and using remote systems
 - Basic programming experience (language of your choice)
+
+### Outcomes
+
+- Theory and application of container technology
+- How to use containerized software developed by other people
+- How to containerize software
+- How to build/deploy containerized workflows
+- How to run your computation on resources such as CyVerse and UA HPC
 
 ### Tentative Schedule:
 
