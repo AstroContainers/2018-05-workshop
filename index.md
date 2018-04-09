@@ -32,4 +32,12 @@ The workshop is designed for, but not limited to, astronomers and astrophysicist
 
 **B**ring **Y**our **O**wn **D**ata and **A**nalyses.  Workshop participants are encouraged to bring their own data and analytical workflows for containerization.
 
+## Required Experience:
+
+- Linux command line, directory structures, shell commands
+- Using and running analysis tools from the command line
+- Experience using HPC, distributed computing, cloud computing systems
+- Familiarity of logging into and using remote systems
+- Basic programming experience (language of your choice)
+
 For more information, please visit [this webpage](https://astrocontainers.github.io/2018-05-workshop) or contact [CK Chan](mailto:chanc@email.arizona.edu).
