@@ -6,6 +6,7 @@ classes:
 excerpt: "May 7th and 8th, 2018"
 header:
   overlay_image: /banner.jpg
+  caption: "Flyer ([jpg](flyer.jpg), [pdf](flyer.pdf))"
   cta_label: Register
   cta_url: "https://goo.gl/forms/UaAM4qjJC8fBuUqI3"
 ---
@@ -15,8 +16,6 @@ Dates and Time: Monday and Tuesday, May 7th and 8th, 2018, 9:00am–4:30pm MST
 Location: University of Arizona Main Campus (room number TBD)
 
 Please [register and tell us what analysis/data you will bring](https://goo.gl/forms/UaAM4qjJC8fBuUqI3).
-
-Flyer ([jpg](flyer.jpg), [pdf](flyer.pdf))
 
 ### Scope
 
