@@ -28,5 +28,8 @@ The workshop is designed for, but not limited to, astronomers and astrophysicist
 - How to build/deploy containerized workflows
 - How to run your computation on local resources such as CyVerse and UA HPC
 
+## BYOD/BYOA
+
+**B**ring **Y**our **O**wn **D**ata and **A**nalyses.  Workshop participants are encouraged to bring their own data and analytical workflows for containerization.
 
 For more information, please visit [this webpage](https://astrocontainers.github.io/2018-05-workshop) or contact [CK Chan](mailto:chanc@email.arizona.edu).
