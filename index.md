@@ -59,4 +59,9 @@ Time            | May 7th: Docker                                  | May 8th: Si
 02:30pm–03:00pm | Coffee break					   | Coffee break
 03:00pm–04:30pm | BYOD/BYOA session				   | BYOD/BYOA session
 
+### Additional Info:
+
+- [Docker related resources](https://cyverse-container-camp-workshop-2018.readthedocs-hosted.com/en/latest/useful_resources/usefulresources_docker.html)
+- [Singularity related resources](https://cyverse-container-camp-workshop-2018.readthedocs-hosted.com/en/latest/useful_resources/usefulresources_singularity.html)
+
 For more information, please contact [CK Chan](mailto:chanc@email.arizona.edu).  There is also a related [virtual hackathon](https://astrocontainers.github.io/2018-04-hackathon).
