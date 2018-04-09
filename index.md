@@ -18,7 +18,11 @@ Container technologies such as Docker and Singularity are letting scientists eas
 
 ### Target Audience/Participants
 
-The workshop is designed for, but not limited to, astronomers and astrophysicists in Steward, LSST, NOAO, and LPL.  The examples of the workshop are astro-focused but the skill set is generic and applicable to many scientific analysis.
+The workshop is designed for, but not limited to, astronomers and astrophysicists in Steward, LSST, NOAO, and LPL.  The examples of the workshop are astro-focused but the skill sets are generic and applicable to many scientific analysis.
+
+### BYOD/BYOA
+
+**B**ring **Y**our **O**wn **D**ata and **A**nalyses.  Workshop participants are encouraged to bring their own data and analytical workflows for containerization.
 
 ### Outcomes
 
@@ -27,10 +31,6 @@ The workshop is designed for, but not limited to, astronomers and astrophysicist
 - How to containerize software
 - How to build/deploy containerized workflows
 - How to run your computation on local resources such as CyVerse and UA HPC
-
-### BYOD/BYOA
-
-**B**ring **Y**our **O**wn **D**ata and **A**nalyses.  Workshop participants are encouraged to bring their own data and analytical workflows for containerization.
 
 ### Required Experience:
 
