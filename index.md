@@ -16,4 +16,8 @@ Please [register and tell us what analysis/data you will bring](https://goo.gl/f
 
 Container technologies such as Docker and Singularity are letting scientists easily share, reuse, and scale all types of computational analyses.  The *CyVerse AstroContainers Workshop* is a two-day hands-on workshop designed for astronomers to learn how to create, use, and deploy containers across a variety of compute systems (your computer, CyVerse, local HPC, etc).  We will use blend of practical theory and hands-on exercises where small groups deploy tools and workflows they bring to the workshop.
 
+## Target Audience/Participants
+
+The workshop is designed for, but not limited to, astronomers and astrophysicists in Steward, LSST, NOAO, and LPL.  The examples of the workshop are astro-focused but the skill set is generic and applicable to many scientific analysis.
+
 For more information, please visit [this webpage](https://astrocontainers.github.io/2018-05-workshop) or contact [CK Chan](mailto:chanc@email.arizona.edu).
