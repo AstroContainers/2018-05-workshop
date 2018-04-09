@@ -44,7 +44,7 @@ The workshop is designed for, but not limited to, astronomers and astrophysicist
 
 Day 1 | Introductory Docker
 ----- | -------------------
-09:00am–09:30am | Welcome, introduction to CyVerse, UA HPC, and container technology
+09:00am–09:30am | Welcome, introduction to CyVerse, and containers
 09:30am–10:00am | Introductory Docker I
 10:00am–10:30am | Coffee break
 10:30am–11:15am | How to use Docker on CyVerse
@@ -56,7 +56,7 @@ Day 1 | Introductory Docker
 
 Day 2 | Introductory Singularity
 ----- | ------------------------
-09:00am–09:30am | CyVerse, UA HPC, and container showcase
+09:00am–09:30am | Introduction to UA HPC and container showcase
 09:30am–10:00am | Introductory Singularity I
 10:00am–10:30am | Coffee break
 10:30am–11:15am | How to use Singularity on UA HPC
