@@ -3,9 +3,9 @@ title: Learning Docker and Singularity
 layout: splash
 classes:
   - landing
+excerpt: "May 7th and 8th, 2018"
 header:
   overlay_image: /banner.jpg
-  excerpt: "May 7th and 8th, 2018"
   cta_label: Register
   cta_url: "https://goo.gl/forms/UaAM4qjJC8fBuUqI3"
 ---
