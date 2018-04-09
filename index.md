@@ -20,4 +20,13 @@ Container technologies such as Docker and Singularity are letting scientists eas
 
 The workshop is designed for, but not limited to, astronomers and astrophysicists in Steward, LSST, NOAO, and LPL.  The examples of the workshop are astro-focused but the skill set is generic and applicable to many scientific analysis.
 
+## Outcomes
+
+- Theory and application of container technology
+- How to use containerized software developed by other people
+- How to containerize software
+- How to build/deploy containerized workflows
+- How to run your computation on local resources such as CyVerse and UA HPC
+
+
 For more information, please visit [this webpage](https://astrocontainers.github.io/2018-05-workshop) or contact [CK Chan](mailto:chanc@email.arizona.edu).
