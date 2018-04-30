@@ -47,17 +47,17 @@ The series is designed for astronomers and astrophysicists at Steward, LSST, NOA
 
 ### Schedule:
 
-Time            | May 7th: Docker                                                                             | May 8th: Singularity
---------------- | ------------------------------------------------------------------------------------------- | -----------------------------------------------
-09:00am–09:30am | General introduction to CyVerse and workshop logistics (Nirav Merchant & Upendra Devisetty) | General overview of Singularity (Tyson Swetnam)
-09:30am–10:00am | General overview of container technology landscape (Nirav Merchant)                         | Singularity setup (CK Chan)
-10:00am–10:15am | Coffee and snack break with networking                                                      | Coffee and snack break with networking
-10:15am-11:00am | Science code and Science Platform: Docker at LSST (Frossie Economou)                        | EHT, PCA, and Singularity (Lia Medeiros)
-11:00am-12:00am | Introductory Docker (CK Chan)                                                               | Introductory Singularity (Tyson Swetnam)
-12:00pm–01:00pm | Lunch break on your own                                                                     | Lunch break on your own
-01:00pm–02:30pm | Advanced Docker (Upendra Devisetty)                                                         | Advanced Singularity (Chris Reidy)
-02:30pm–03:00pm | Coffee break (15 min) and afternoon session planning                                        | Coffee break (15 min) and afternoon session planning
-03:00pm–04:30pm | BYOD/A (Hands-on project)                                                                   | BYOD/A (Hands-on project)
+Time            | May 7th: Docker                                                                     | May 8th: Singularity
+--------------- | ----------------------------------------------------------------------------------- | -----------------------------------------------
+09:00am–09:30am | Introduction to CyVerse and workshop logistics (Nirav Merchant & Upendra Devisetty) | General overview of Singularity (Tyson Swetnam)
+09:30am–10:00am | Overview of container technology landscape (Nirav Merchant)                         | Singularity setup (CK Chan)
+10:00am–10:15am | Coffee and snack break with networking                                              | Coffee and snack break with networking
+10:15am-11:00am | Science code and Science Platform: Docker at LSST (Frossie Economou)                | EHT, PCA, and Singularity (Lia Medeiros)
+11:00am-12:00am | Introductory Docker (CK Chan)                                                       | Introductory Singularity (Tyson Swetnam)
+12:00pm–01:00pm | Lunch break on your own                                                             | Lunch break on your own
+01:00pm–02:30pm | Advanced Docker (Upendra Devisetty)                                                 | Advanced Singularity (Chris Reidy)
+02:30pm–03:00pm | Coffee break (15 min) and afternoon session planning                                | Coffee break (15 min) and afternoon session planning
+03:00pm–04:30pm | BYOD/A (Hands-on project)                                                           | BYOD/A (Hands-on project)
 
 ### Additional Info:
 
