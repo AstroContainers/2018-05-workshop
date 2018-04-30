@@ -13,7 +13,7 @@ header:
 
 Dates and Time: Monday and Tuesday, May 7th and 8th, 2018, 9:00am–4:30pm MST
 
-Location: University of Arizona Main Campus (room number TBD)
+Location: Environment and Natural Resources 2 Building, Medium Seminar Room C, S225 ([ENR2 S225](http://www.environment.arizona.edu/ie-meeting-room/medium-seminar-room-c-s225))
 
 Please [register and tell us what analysis/data you will bring](https://goo.gl/forms/UaAM4qjJC8fBuUqI3).
 
