@@ -7,8 +7,8 @@ excerpt: "May 7th and 8th, 2018"
 header:
   overlay_image: /banner.jpg
   caption: "Flyer ([jpg](flyer.jpg), [pdf](flyer.pdf))"
-  cta_label: Register
-  cta_url:   "https://goo.gl/forms/UaAM4qjJC8fBuUqI3"
+  cta_label: Course Syllabus
+  cta_url:   "https://cyverse-astrocontainers-workshop-2018.readthedocs-hosted.com"
 ---
 
 Dates and Time: Monday and Tuesday, May 7th and 8th, 2018, 9:00am–4:30pm MST
