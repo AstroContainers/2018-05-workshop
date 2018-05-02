@@ -19,7 +19,7 @@ Instructors: Nirav Merchant, CK Chan, Tyson Swetnam, Upendra Devisetty, and Chri
 
 Guest Speakers: Frossie Economou and Lia Medeiros
 
-Please [register and tell us what analysis/data you will bring](https://goo.gl/forms/UaAM4qjJC8fBuUqI3).
+[Registration closed](https://goo.gl/forms/UaAM4qjJC8fBuUqI3).
 
 ### Scope:
 
