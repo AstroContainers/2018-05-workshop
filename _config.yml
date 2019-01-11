@@ -1,2 +1,4 @@
 remote_theme: mmistakes/minimal-mistakes
 title: CyVerse AstroContainers Workshop
+plugins:
+  - jekyll-include-cache
